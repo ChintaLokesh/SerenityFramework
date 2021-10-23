@@ -1,0 +1,8 @@
+com\artium\pagefactory\LogoutPage.class
+com\artium\pagefactory\SignUpPage.class
+com\artium\objectrepository\Logger.class
+com\artium\objectrepository\ReUsableMethods.class
+com\artium\objectrepository\BusinessLibrary.class
+com\artium\pagefactory\LoginPage.class
+com\artium\pagefactory\BookUrSlotPage.class
+com\artium\pagefactory\ArtiumHomePage.class

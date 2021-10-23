@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.artium.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.943 s - in com.artium.runner.TestRunner

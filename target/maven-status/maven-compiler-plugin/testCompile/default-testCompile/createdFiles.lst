@@ -1,0 +1,4 @@
+com\artium\runner\TestRunner.class
+com\artium\testscripts\BaseClass.class
+com\artium\testscripts\SignUpTest.class
+com\artium\testscripts\LoginTest.class
